@@ -1,0 +1,27 @@
+body {
+  background: #0033FF;
+}
+
+h1 {
+  color: white;
+  font-size: 4em;
+  font-family: russo one;
+}
+
+.btn {
+  font-family: russo one;
+  font-size: 1.5em;
+  margin: 1em 3em 1.5em 3.3em;
+}
+.well {
+  font-family: russo one;
+  font-size: 1.5em;
+  border-width: 0em;
+  color: white;
+}
+.online {
+  background-color: green;
+}
+.offline {
+  background-color: red;
+}
